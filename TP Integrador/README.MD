@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Alan Elias, Beisel  
+- **Nombre:** Alan Elias Beisel y Santiago Bongiorno
 - **Comisión:** M2025-10
 
 ## 📂 Descripción del Repositorio  
